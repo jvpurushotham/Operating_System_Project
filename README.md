@@ -9,23 +9,23 @@ This tool is ideal for students, educators, and developers who want to explore t
 ## 🚀 Features   
 
 **Paging Simulation**   
-Visualize memory allocation via pages and frames.   
-Track page faults and simulate demand paging behavior.   
+- Visualize memory allocation via pages and frames.   
+- Track page faults and simulate demand paging behavior.   
 **Segmentation Simulation**     
-Explore how logical memory is divided into segments.   
-Visualize segment tables and fragmented memory space.   
+- Explore how logical memory is divided into segments.   
+- Visualize segment tables and fragmented memory space.   
 **Page Replacement Algorithms**  
-Choose between LRU and Optimal algorithms.   
-Visualize page replacement decisions dynamically.  
+- Choose between LRU, FIFO, MRU and Optimal algorithms.   
+- Visualize page replacement decisions dynamically.  
 **Custom Memory Input**    
-Users can enter custom page references, memory size, and allocation settings.   
-Simulate multiple scenarios for better understanding.   
+- Users can enter custom page references, memory size, and allocation settings.   
+- Simulate multiple scenarios for better understanding.   
 **Memory Fragmentation Visualization**  
-See how fragmentation occurs over time.   
-Compare paging vs segmentation in real-time.   
+- See how fragmentation occurs over time.   
+- Compare paging vs segmentation in real-time.   
 **Interactive GUI**     
-Built using PyQt5, offering an intuitive and dynamic graphical interface.   
-GraphicsView-based memory layout rendering.       
+- Built using PyQt5, offering an intuitive and dynamic graphical interface.   
+- Graphics View-based memory layout rendering.       
 
 ## 🛠️ Technologies Used    
 
@@ -64,19 +64,19 @@ python main.py
  
 ## 🧪 How to Use      
 
-Launch the application.   
-Select Paging or Segmentation from the tab menu.     
-Enter memory configuration values (e.g., frame size, number of pages, etc.).   
-Choose a page replacement algorithm.   
-Click Simulate to begin the visualization.   
-Observe the graphical memory representation and statistics shown in the status bar.     
+- Launch the application.   
+- Select Paging or Segmentation from the tab menu.     
+- Enter memory configuration values (e.g., frame size, number of pages, etc.).   
+- Choose a page replacement algorithm.   
+- Click Simulate to begin the visualization.   
+- Observe the graphical memory representation and statistics shown in the status bar.     
 
 ## 📚 Educational Goals    
 
-Understand the difference between paging and segmentation.   
-Learn how page replacement algorithms work.   
-Visualize how memory fragmentation affects allocation.    
-Gain insight into how demand paging reduces memory load.      
+- Understand the difference between paging and segmentation.   
+- Learn how page replacement algorithms work.   
+- Visualize how memory fragmentation affects allocation.    
+- Gain insight into how demand paging reduces memory load.      
 
 ## 🙌 Contribution   
 
