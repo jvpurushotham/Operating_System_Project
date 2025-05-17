@@ -10,19 +10,24 @@ This tool is ideal for students, educators, and developers who want to explore t
 
 **Paging Simulation**   
 - Visualize memory allocation via pages and frames.   
-- Track page faults and simulate demand paging behavior.   
+- Track page faults and simulate demand paging behavior.
+   
 **Segmentation Simulation**     
 - Explore how logical memory is divided into segments.   
-- Visualize segment tables and fragmented memory space.   
+- Visualize segment tables and fragmented memory space.
+  
 **Page Replacement Algorithms**  
 - Choose between LRU, FIFO, MRU and Optimal algorithms.   
-- Visualize page replacement decisions dynamically.  
+- Visualize page replacement decisions dynamically.
+  
 **Custom Memory Input**    
 - Users can enter custom page references, memory size, and allocation settings.   
-- Simulate multiple scenarios for better understanding.   
+- Simulate multiple scenarios for better understanding.
+
 **Memory Fragmentation Visualization**  
 - See how fragmentation occurs over time.   
-- Compare paging vs segmentation in real-time.   
+- Compare paging vs segmentation in real-time.
+  
 **Interactive GUI**     
 - Built using PyQt5, offering an intuitive and dynamic graphical interface.   
 - Graphics View-based memory layout rendering.       
